@@ -7,6 +7,7 @@ National Research University Higher School of Economics Moscow, Russia
     Responsibilities: Grading homeworks, holding seminars, creating tests
 
 • Teaching Assistant, ”Introduction to Programming” course, Faculty of Computer Sciences Sep. 2021 - Dec 2021
+
     course page:          http://wiki.cs.hse.ru/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B 0%D0%BD%D0%B8%D0%B5_21/22_(%D0%BC%D0%B0%D0%B9%D0%BD%D0%BE%D1%80_%D0%98%D0%90%D0%94)
 
 
