@@ -8,12 +8,12 @@ National Research University Higher School of Economics Moscow, Russia
 
 • Teaching Assistant, ”Introduction to Programming” course, Faculty of Computer Sciences Sep. 2021 - Dec 2021
 
-    http://wiki.cs.hse.ru/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B 0%D0%BD%D0%B8%D0%B5_21/22 
+    [http://wiki.cs.hse.ru/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B2_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B 0%D0%BD%D0%B8%D0%B5_21/22](http://wiki.cs.hse.ru/Введение_в_программирование_21/22_(майнор_ИАД)) 
 
 
 • Teaching Assistant, ”Probability Theory and Statistics” course, Faculty of Economic Sciences Sep. 2021 - June 2022
 
-    [http://wiki.cs.hse.ru/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F](http://wiki.cs.hse.ru/Теория_вероятностей_и_статистика,_МИРЭК,_2021-2022)
+    [[http://wiki.cs.hse.ru/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F](http://wiki.cs.hse.ru/Теория_вероятностей_и_статистика,_МИРЭК,_2021-2022)](http://wiki.cs.hse.ru/Теория_вероятностей_и_статистика,_МИРЭК,_2021-2022)
 
 • Math Tutor, Freelance Sep. 2021 - June 2022
 
