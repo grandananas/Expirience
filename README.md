@@ -2,7 +2,7 @@
 
 National Research University Higher School of Economics Moscow, Russia
 
-Teaching Assistant, ”Calculus” course, Faculty of Economic Sciences. Sep. 2020 - June 2021
+• Teaching Assistant, ”Calculus” course, Faculty of Economic Sciences. Sep. 2020 - June 2021
 
 Responsibilities: Grading homeworks, holding seminars, creating tests
 
