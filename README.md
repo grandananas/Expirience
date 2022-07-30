@@ -16,7 +16,7 @@ course page: [http://wiki.cs.hse.ru/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B_%D0%BC%
 
 • Math Tutor, Freelance Sep. 2021 - June 2022
 
-Help with studying calsulus and linear algebra
+Help with studying calculus and linear algebra
 
 • Teaching Assistant, ”Intro to Machine Learning” course, Faculty of Computer Sciences Jan. 2022 - June 2022
 Python Machine Learning Probability Theory
