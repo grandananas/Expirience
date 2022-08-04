@@ -1,4 +1,4 @@
-# Expirience
+# Experience
 
 National Research University Higher School of Economics Moscow, Russia
 
